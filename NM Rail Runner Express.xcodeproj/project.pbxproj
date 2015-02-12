@@ -13,6 +13,26 @@
 		4B4B56471A27B8E100299049 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4B4B56461A27B8E100299049 /* Images.xcassets */; };
 		4B4B564A1A27B8E100299049 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 4B4B56481A27B8E100299049 /* LaunchScreen.xib */; };
 		4B4B56561A27B8E100299049 /* NM_Rail_Runner_ExpressTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B4B56551A27B8E100299049 /* NM_Rail_Runner_ExpressTests.swift */; };
+		4B7CA7101A3682B000B3ABE8 /* CoreData.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4B7CA70F1A3682B000B3ABE8 /* CoreData.framework */; };
+		4B7CA7121A3682BA00B3ABE8 /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4B7CA7111A3682BA00B3ABE8 /* SystemConfiguration.framework */; };
+		4B7CA7141A3682C400B3ABE8 /* libz.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 4B7CA7131A3682C400B3ABE8 /* libz.dylib */; };
+		4B7CA7171A3689B000B3ABE8 /* libGoogleAnalyticsServices.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 4B7CA7161A3689B000B3ABE8 /* libGoogleAnalyticsServices.a */; };
+		4B87EFA71A2BBF9F0087EBE8 /* arrow-down.png in Resources */ = {isa = PBXBuildFile; fileRef = 4B87EFA61A2BBF9F0087EBE8 /* arrow-down.png */; };
+		4BE43A641A36512A009DD881 /* Rail_runner_logo.png in Resources */ = {isa = PBXBuildFile; fileRef = 4BE43A631A36512A009DD881 /* Rail_runner_logo.png */; };
+		4BF487841A313D800034EF3A /* ScheduleViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BF487831A313D800034EF3A /* ScheduleViewController.swift */; };
+		4BF487861A3152BA0034EF3A /* rr.csv in Resources */ = {isa = PBXBuildFile; fileRef = 4BF487851A3152BA0034EF3A /* rr.csv */; };
+		4BF709841A34FEB0001A4DB9 /* FareCalc.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BF709831A34FEB0001A4DB9 /* FareCalc.swift */; };
+		4BF709911A350AA8001A4DB9 /* Contents.json in Resources */ = {isa = PBXBuildFile; fileRef = 4BF709861A350AA8001A4DB9 /* Contents.json */; };
+		4BF709921A350AA8001A4DB9 /* Icon-40.png in Resources */ = {isa = PBXBuildFile; fileRef = 4BF709871A350AA8001A4DB9 /* Icon-40.png */; };
+		4BF709931A350AA8001A4DB9 /* Icon-40@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4BF709881A350AA8001A4DB9 /* Icon-40@2x.png */; };
+		4BF709941A350AA8001A4DB9 /* Icon-40@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4BF709891A350AA8001A4DB9 /* Icon-40@3x.png */; };
+		4BF709951A350AA8001A4DB9 /* Icon-60@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4BF7098A1A350AA8001A4DB9 /* Icon-60@2x.png */; };
+		4BF709961A350AA8001A4DB9 /* Icon-60@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4BF7098B1A350AA8001A4DB9 /* Icon-60@3x.png */; };
+		4BF709971A350AA8001A4DB9 /* Icon-76.png in Resources */ = {isa = PBXBuildFile; fileRef = 4BF7098C1A350AA8001A4DB9 /* Icon-76.png */; };
+		4BF709981A350AA8001A4DB9 /* Icon-76@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4BF7098D1A350AA8001A4DB9 /* Icon-76@2x.png */; };
+		4BF709991A350AA8001A4DB9 /* Icon-Small.png in Resources */ = {isa = PBXBuildFile; fileRef = 4BF7098E1A350AA8001A4DB9 /* Icon-Small.png */; };
+		4BF7099A1A350AA8001A4DB9 /* Icon-Small@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4BF7098F1A350AA8001A4DB9 /* Icon-Small@2x.png */; };
+		4BF7099B1A350AA8001A4DB9 /* Icon-Small@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4BF709901A350AA8001A4DB9 /* Icon-Small@3x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -26,7 +46,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		4B4B563A1A27B8E100299049 /* NM Rail Runner Express.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "NM Rail Runner Express.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		4B4B563A1A27B8E100299049 /* Rail Runner.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Rail Runner.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		4B4B563E1A27B8E100299049 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4B4B563F1A27B8E100299049 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		4B4B56411A27B8E100299049 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -36,6 +56,36 @@
 		4B4B564F1A27B8E100299049 /* NM Rail Runner ExpressTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "NM Rail Runner ExpressTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		4B4B56541A27B8E100299049 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4B4B56551A27B8E100299049 /* NM_Rail_Runner_ExpressTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NM_Rail_Runner_ExpressTests.swift; sourceTree = "<group>"; };
+		4B7CA7061A36829700B3ABE8 /* GAI.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = GAI.h; path = ../GAI.h; sourceTree = "<group>"; };
+		4B7CA7071A36829700B3ABE8 /* GAIDictionaryBuilder.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = GAIDictionaryBuilder.h; path = ../GAIDictionaryBuilder.h; sourceTree = "<group>"; };
+		4B7CA7081A36829700B3ABE8 /* GAIEcommerceProduct.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = GAIEcommerceProduct.h; path = ../GAIEcommerceProduct.h; sourceTree = "<group>"; };
+		4B7CA7091A36829700B3ABE8 /* GAIEcommerceProductAction.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = GAIEcommerceProductAction.h; path = ../GAIEcommerceProductAction.h; sourceTree = "<group>"; };
+		4B7CA70A1A36829700B3ABE8 /* GAIEcommercePromotion.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = GAIEcommercePromotion.h; path = ../GAIEcommercePromotion.h; sourceTree = "<group>"; };
+		4B7CA70B1A36829700B3ABE8 /* GAIFields.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = GAIFields.h; path = ../GAIFields.h; sourceTree = "<group>"; };
+		4B7CA70C1A36829700B3ABE8 /* GAILogger.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = GAILogger.h; path = ../GAILogger.h; sourceTree = "<group>"; };
+		4B7CA70D1A36829700B3ABE8 /* GAITrackedViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = GAITrackedViewController.h; path = ../GAITrackedViewController.h; sourceTree = "<group>"; };
+		4B7CA70E1A36829700B3ABE8 /* GAITracker.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = GAITracker.h; path = ../GAITracker.h; sourceTree = "<group>"; };
+		4B7CA70F1A3682B000B3ABE8 /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = System/Library/Frameworks/CoreData.framework; sourceTree = SDKROOT; };
+		4B7CA7111A3682BA00B3ABE8 /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemConfiguration.framework; path = System/Library/Frameworks/SystemConfiguration.framework; sourceTree = SDKROOT; };
+		4B7CA7131A3682C400B3ABE8 /* libz.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libz.dylib; path = usr/lib/libz.dylib; sourceTree = SDKROOT; };
+		4B7CA7151A36846D00B3ABE8 /* Rail Runner Bridging-Header.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Rail Runner Bridging-Header.h"; sourceTree = "<group>"; };
+		4B7CA7161A3689B000B3ABE8 /* libGoogleAnalyticsServices.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libGoogleAnalyticsServices.a; path = ../../Downloads/GoogleAnalyticsServicesiOS_3.10/libGoogleAnalyticsServices.a; sourceTree = "<group>"; };
+		4B87EFA61A2BBF9F0087EBE8 /* arrow-down.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "arrow-down.png"; sourceTree = "<group>"; };
+		4BE43A631A36512A009DD881 /* Rail_runner_logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Rail_runner_logo.png; sourceTree = "<group>"; };
+		4BF487831A313D800034EF3A /* ScheduleViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ScheduleViewController.swift; sourceTree = "<group>"; };
+		4BF487851A3152BA0034EF3A /* rr.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = rr.csv; path = ../rr.csv; sourceTree = "<group>"; };
+		4BF709831A34FEB0001A4DB9 /* FareCalc.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FareCalc.swift; sourceTree = "<group>"; };
+		4BF709861A350AA8001A4DB9 /* Contents.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Contents.json; sourceTree = "<group>"; };
+		4BF709871A350AA8001A4DB9 /* Icon-40.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-40.png"; sourceTree = "<group>"; };
+		4BF709881A350AA8001A4DB9 /* Icon-40@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-40@2x.png"; sourceTree = "<group>"; };
+		4BF709891A350AA8001A4DB9 /* Icon-40@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-40@3x.png"; sourceTree = "<group>"; };
+		4BF7098A1A350AA8001A4DB9 /* Icon-60@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-60@2x.png"; sourceTree = "<group>"; };
+		4BF7098B1A350AA8001A4DB9 /* Icon-60@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-60@3x.png"; sourceTree = "<group>"; };
+		4BF7098C1A350AA8001A4DB9 /* Icon-76.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-76.png"; sourceTree = "<group>"; };
+		4BF7098D1A350AA8001A4DB9 /* Icon-76@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-76@2x.png"; sourceTree = "<group>"; };
+		4BF7098E1A350AA8001A4DB9 /* Icon-Small.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Small.png"; sourceTree = "<group>"; };
+		4BF7098F1A350AA8001A4DB9 /* Icon-Small@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Small@2x.png"; sourceTree = "<group>"; };
+		4BF709901A350AA8001A4DB9 /* Icon-Small@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Small@3x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -43,6 +93,10 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4B7CA7171A3689B000B3ABE8 /* libGoogleAnalyticsServices.a in Frameworks */,
+				4B7CA7141A3682C400B3ABE8 /* libz.dylib in Frameworks */,
+				4B7CA7121A3682BA00B3ABE8 /* SystemConfiguration.framework in Frameworks */,
+				4B7CA7101A3682B000B3ABE8 /* CoreData.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -59,6 +113,11 @@
 		4B4B56311A27B8E100299049 = {
 			isa = PBXGroup;
 			children = (
+				4B7CA7161A3689B000B3ABE8 /* libGoogleAnalyticsServices.a */,
+				4B7CA7131A3682C400B3ABE8 /* libz.dylib */,
+				4B7CA7111A3682BA00B3ABE8 /* SystemConfiguration.framework */,
+				4B7CA70F1A3682B000B3ABE8 /* CoreData.framework */,
+				4BE43A631A36512A009DD881 /* Rail_runner_logo.png */,
 				4B4B563C1A27B8E100299049 /* NM Rail Runner Express */,
 				4B4B56521A27B8E100299049 /* NM Rail Runner ExpressTests */,
 				4B4B563B1A27B8E100299049 /* Products */,
@@ -68,7 +127,7 @@
 		4B4B563B1A27B8E100299049 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				4B4B563A1A27B8E100299049 /* NM Rail Runner Express.app */,
+				4B4B563A1A27B8E100299049 /* Rail Runner.app */,
 				4B4B564F1A27B8E100299049 /* NM Rail Runner ExpressTests.xctest */,
 			);
 			name = Products;
@@ -77,12 +136,27 @@
 		4B4B563C1A27B8E100299049 /* NM Rail Runner Express */ = {
 			isa = PBXGroup;
 			children = (
+				4B7CA7061A36829700B3ABE8 /* GAI.h */,
+				4B7CA7071A36829700B3ABE8 /* GAIDictionaryBuilder.h */,
+				4B7CA7081A36829700B3ABE8 /* GAIEcommerceProduct.h */,
+				4B7CA7091A36829700B3ABE8 /* GAIEcommerceProductAction.h */,
+				4B7CA70A1A36829700B3ABE8 /* GAIEcommercePromotion.h */,
+				4B7CA70B1A36829700B3ABE8 /* GAIFields.h */,
+				4B7CA70C1A36829700B3ABE8 /* GAILogger.h */,
+				4B7CA70D1A36829700B3ABE8 /* GAITrackedViewController.h */,
+				4B7CA70E1A36829700B3ABE8 /* GAITracker.h */,
+				4BF487851A3152BA0034EF3A /* rr.csv */,
 				4B4B563F1A27B8E100299049 /* AppDelegate.swift */,
+				4B7CA7151A36846D00B3ABE8 /* Rail Runner Bridging-Header.h */,
 				4B4B56411A27B8E100299049 /* ViewController.swift */,
 				4B4B56431A27B8E100299049 /* Main.storyboard */,
+				4B87EFA61A2BBF9F0087EBE8 /* arrow-down.png */,
 				4B4B56461A27B8E100299049 /* Images.xcassets */,
+				4BF709851A350AA8001A4DB9 /* AppIcon.appiconset */,
 				4B4B56481A27B8E100299049 /* LaunchScreen.xib */,
 				4B4B563D1A27B8E100299049 /* Supporting Files */,
+				4BF487831A313D800034EF3A /* ScheduleViewController.swift */,
+				4BF709831A34FEB0001A4DB9 /* FareCalc.swift */,
 			);
 			path = "NM Rail Runner Express";
 			sourceTree = "<group>";
@@ -112,6 +186,25 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
+		4BF709851A350AA8001A4DB9 /* AppIcon.appiconset */ = {
+			isa = PBXGroup;
+			children = (
+				4BF709861A350AA8001A4DB9 /* Contents.json */,
+				4BF709871A350AA8001A4DB9 /* Icon-40.png */,
+				4BF709881A350AA8001A4DB9 /* Icon-40@2x.png */,
+				4BF709891A350AA8001A4DB9 /* Icon-40@3x.png */,
+				4BF7098A1A350AA8001A4DB9 /* Icon-60@2x.png */,
+				4BF7098B1A350AA8001A4DB9 /* Icon-60@3x.png */,
+				4BF7098C1A350AA8001A4DB9 /* Icon-76.png */,
+				4BF7098D1A350AA8001A4DB9 /* Icon-76@2x.png */,
+				4BF7098E1A350AA8001A4DB9 /* Icon-Small.png */,
+				4BF7098F1A350AA8001A4DB9 /* Icon-Small@2x.png */,
+				4BF709901A350AA8001A4DB9 /* Icon-Small@3x.png */,
+			);
+			name = AppIcon.appiconset;
+			path = ../AppIcon.appiconset;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -129,7 +222,7 @@
 			);
 			name = "NM Rail Runner Express";
 			productName = "NM Rail Runner Express";
-			productReference = 4B4B563A1A27B8E100299049 /* NM Rail Runner Express.app */;
+			productReference = 4B4B563A1A27B8E100299049 /* Rail Runner.app */;
 			productType = "com.apple.product-type.application";
 		};
 		4B4B564E1A27B8E100299049 /* NM Rail Runner ExpressTests */ = {
@@ -161,6 +254,7 @@
 				TargetAttributes = {
 					4B4B56391A27B8E100299049 = {
 						CreatedOnToolsVersion = 6.1;
+						DevelopmentTeam = WAY2EB224Y;
 					};
 					4B4B564E1A27B8E100299049 = {
 						CreatedOnToolsVersion = 6.1;
@@ -192,9 +286,23 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4BF487861A3152BA0034EF3A /* rr.csv in Resources */,
+				4BE43A641A36512A009DD881 /* Rail_runner_logo.png in Resources */,
+				4BF709951A350AA8001A4DB9 /* Icon-60@2x.png in Resources */,
 				4B4B56451A27B8E100299049 /* Main.storyboard in Resources */,
+				4BF7099A1A350AA8001A4DB9 /* Icon-Small@2x.png in Resources */,
+				4BF709981A350AA8001A4DB9 /* Icon-76@2x.png in Resources */,
+				4B87EFA71A2BBF9F0087EBE8 /* arrow-down.png in Resources */,
+				4BF709921A350AA8001A4DB9 /* Icon-40.png in Resources */,
+				4BF709971A350AA8001A4DB9 /* Icon-76.png in Resources */,
+				4BF709941A350AA8001A4DB9 /* Icon-40@3x.png in Resources */,
+				4BF709991A350AA8001A4DB9 /* Icon-Small.png in Resources */,
 				4B4B564A1A27B8E100299049 /* LaunchScreen.xib in Resources */,
+				4BF709931A350AA8001A4DB9 /* Icon-40@2x.png in Resources */,
 				4B4B56471A27B8E100299049 /* Images.xcassets in Resources */,
+				4BF709911A350AA8001A4DB9 /* Contents.json in Resources */,
+				4BF7099B1A350AA8001A4DB9 /* Icon-Small@3x.png in Resources */,
+				4BF709961A350AA8001A4DB9 /* Icon-60@3x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -212,7 +320,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4BF487841A313D800034EF3A /* ScheduleViewController.swift in Sources */,
 				4B4B56421A27B8E100299049 /* ViewController.swift in Sources */,
+				4BF709841A34FEB0001A4DB9 /* FareCalc.swift in Sources */,
 				4B4B56401A27B8E100299049 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -337,20 +447,42 @@
 		4B4B565A1A27B8E100299049 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon1;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = "NM Rail Runner Express/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					/Users/cfhughes/Downloads/GoogleAnalyticsServicesiOS_3.10,
+				);
+				OTHER_LDFLAGS = "-lz";
+				PRODUCT_NAME = "Rail Runner";
+				PROVISIONING_PROFILE = "";
+				SWIFT_OBJC_BRIDGING_HEADER = "NM Rail Runner Express/Rail Runner Bridging-Header.h";
 			};
 			name = Debug;
 		};
 		4B4B565B1A27B8E100299049 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon1;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = "NM Rail Runner Express/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					/Users/cfhughes/Downloads/GoogleAnalyticsServicesiOS_3.10,
+				);
+				OTHER_LDFLAGS = "-lz";
+				PRODUCT_NAME = "Rail Runner";
+				PROVISIONING_PROFILE = "";
+				SWIFT_OBJC_BRIDGING_HEADER = "NM Rail Runner Express/Rail Runner Bridging-Header.h";
 			};
 			name = Release;
 		};
@@ -407,6 +539,7 @@
 				4B4B565B1A27B8E100299049 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		4B4B565C1A27B8E100299049 /* Build configuration list for PBXNativeTarget "NM Rail Runner ExpressTests" */ = {
 			isa = XCConfigurationList;
@@ -415,6 +548,7 @@
 				4B4B565E1A27B8E100299049 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
